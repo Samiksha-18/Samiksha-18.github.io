@@ -1,0 +1,68 @@
+body{
+	background-color: 	lavender;
+}
+#head{
+	font-size: 42px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-weight: bold;
+	font-style: italic;
+	padding-left: 30px;
+	text-align: left;
+	height: 62px;
+	border-color: black;
+}
+#one{
+	float: right;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color:  #400080;
+	font-size: 16px;
+	color: white;
+	border-width: 2px;
+	border-color:  #400080;
+	border-style: solid; 
+}
+
+#logo{
+	position: relative;
+	top: 14px;
+	height:60px;
+	width:60px;
+}
+#he{
+	position: relative;
+	top:50px;
+	background-image: url("nikeshoe1.png");
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+#hea{
+	position: relative;
+	top:100px;
+	width: 310px;
+	height: 415px;
+	padding-left: 130px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 30px;
+
+}
+#content{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 15px;	
+}
+#con{
+	position: relative;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-weight: bold;
+	top: 50px;
+	left: 20px;
+	width: 125px;
+	padding-left: 10px;	 
+	font-size: 24px;
+	background-color:#cc99ff;
+}
+
+#r1,#r2,#r3,#r4,#r5{
+float: right;
+padding-left: 15px; 
+}
